@@ -39,9 +39,34 @@ p {
 	color: purple;
 }
 
-.btn-primary {
+/*.btn-primary {
 	color: white;
 	background-color: #ffffff;
+}*/
+
+.buffer {
+	height: 20px;
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #852C64;
+	border-color: #532B72;
+}
+
+.btn-primary:hover {
+	background-color: #602870;
+	border-color: #602870;
+	border-width: 4px;
+}
+
+.btn-xl {
+	padding: 1rem 2rem;
 }
 
 .a {
