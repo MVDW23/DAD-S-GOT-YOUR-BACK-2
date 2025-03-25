@@ -27,8 +27,11 @@ p {
 	color: purple;
 }
 
-video {
-	align-items: center;
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 @media only screen and (min-width: 601px) {
