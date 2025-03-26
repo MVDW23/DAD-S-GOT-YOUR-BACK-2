@@ -26,6 +26,11 @@ h5 {
 	text-decoration: bold;
 }
 
+#tile_Heaven {
+	width: 50%;
+	height: 50%;
+}
+
 .buffer {
 	height: 0px;
 }
