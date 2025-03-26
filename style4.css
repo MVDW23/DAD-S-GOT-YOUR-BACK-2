@@ -10,6 +10,10 @@ html {
 	background-size: cover;
 }
 
+.debug {
+	border: 2px solid red;
+}
+
 h1 {
 	justify-content: center;
 	color: #020000;
