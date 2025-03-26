@@ -17,11 +17,13 @@ html {
 h1 {
 	text-align: center;
 	color: #020000;
+	text-decoration: bold;
 }
 
-p {
+h5 {
 	text-align: center;
 	color: #020000;
+	text-decoration: bold;
 }
 
 .buffer {
