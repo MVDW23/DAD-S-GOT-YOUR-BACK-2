@@ -25,18 +25,18 @@ h1 {
 	font-family: "Times New Roman", sans-serif;
 	text-align: center;
 	text-decoration: underline;
-	color: white;
+	color: #020000;
 }
 
 h4 {
 	font-weight: bold;
 	text-align: center;
 	text-decoration: underline;
-	color: white;
+	color: #020000;
 }
 
 p {
-	color: purple;
+	color: #020000;
 }
 
 /*.btn-primary {
